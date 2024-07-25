@@ -1,0 +1,27 @@
+{
+  "APP_NAME": "empty",
+  "files.associations": {
+    "*.dart": "dart",
+    "*.html.erb": "erb",
+    "*.rb": "ruby",
+    "random": "cpp",
+    "vector": "cpp",
+    "iosfwd": "cpp",
+    "*.ipp": "cpp",
+    "__hash_table": "cpp",
+    "__split_buffer": "cpp",
+    "__tree": "cpp",
+    "deque": "cpp",
+    "forward_list": "cpp",
+    "ios": "cpp",
+    "list": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "*.tcc": "cpp",
+    "any": "cpp",
+    "system_error": "cpp"
+  }
+}
