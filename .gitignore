@@ -1,3 +1,4 @@
 build/
 empty.xcodeproj/
 App/empty.app*/
+.DS_Store
